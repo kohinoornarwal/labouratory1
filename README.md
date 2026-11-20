@@ -4,7 +4,7 @@ A clean and responsive laboratory website designed to provide information about 
 
 ## 🌐 Live Demo
 
-[Visit Website]([https://kohinoornarwal-bit.github.io/labouratory1/](https://kohinoornarwal.github.io/labouratory1/))
+[Visit Website]([https://kohinoornarwal-bit.github.io/labouratory1/](https://kohinoornarwal.github.io/labouratory1/)
 
 ## 📌 About The Project
 
